@@ -1,0 +1,3 @@
+streamlit
+transformers
+torch  # For running Hugging Face models
