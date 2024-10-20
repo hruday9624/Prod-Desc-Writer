@@ -1,3 +1,3 @@
 streamlit
-transformers
-torch  # For running Hugging Face models
+transformers==4.28.0  # Use a stable version
+torch  # Hugging Face models need this
